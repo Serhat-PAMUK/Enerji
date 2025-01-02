@@ -1,13 +1,13 @@
-# Enerji Santralleri Bilgi Platformu
+# Yenilenebilir Enerji
 
-Bu proje, Türkiye'deki enerji santralleri hakkında güncel bilgiler ve haberler sunan bir web uygulamasıdır.
+Bu proje, Türkiye'nin yenilenebilir enerji haritasını, grafiğini ve haberlerini sunan bir web uygulamasıdır.
 
 ## Özellikler
 
-- 🏭 Türkiye'deki enerji santrallerinin detaylı bilgileri
+- 🏭 Türkiye'deki yenilenebilir enerji kaynaklarının il bazında haritası
 - 📰 Enerji sektörü ile ilgili güncel haberler
-- 📊 Santrallerin üretim kapasiteleri ve istatistikleri
-- 🗺️ Santrallerin harita üzerinde konumları
+- 📊 İllerin üretim kapasiteleri ve istatistikleri
+- 🗺️ Kurulu güçlerin harita üzerinde konumları
 - 📱 Mobil uyumlu tasarım
 
 ## Kullanılan Teknolojiler
