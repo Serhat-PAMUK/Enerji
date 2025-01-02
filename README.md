@@ -14,10 +14,10 @@ Bu proje, Türkiye'deki enerji santralleri hakkında güncel bilgiler ve haberle
 
 - React.js
 - Vite
-- Tailwind CSS
 - NewsAPI
 - Java(Spring Framework)
 - PostgreSQL
+- Google Firebase
 
 ## Kurulum
 
