@@ -16,9 +16,8 @@ Bu proje, Türkiye'deki enerji santralleri hakkında güncel bilgiler ve haberle
 - Vite
 - Tailwind CSS
 - NewsAPI
-- Leaflet (Harita)
-- Axios
-- React Router
+- Java(Spring Framework)
+- PostgreSQL
 
 ## Kurulum
 
